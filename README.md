@@ -7,4 +7,4 @@ My goals for this class are:
 * how to establish if dataset is usable, and lean how to make messy datasets clean
 * hot to do things the *right* way so that others can use my work
 <br>
-Navigate back to my github homepage [here](http://github.com/lalark)
+Navigate back to my github homepage [here] (http://github.com/lalark)
