@@ -8,5 +8,10 @@ My goals for this class are:
 * hot to do things the *right* way so that others can use my work
 <br>
 Navigate back to my github homepage [here] (http://github.com/lalark)
+<<<<<<< HEAD
 
 i added this in textedit
+=======
+<br>
+a change on github
+>>>>>>> 695b95cb896a8a68c4464df5a3455dfb4aab5ce3
